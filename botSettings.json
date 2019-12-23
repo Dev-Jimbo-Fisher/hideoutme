@@ -1,0 +1,78 @@
+{
+
+    "bot_settings": {
+        "prefix": ".",
+        "copyright": "© 2019 - The Hideout",
+        "creator": "Creator: J. Fisher#0001",
+        "debug_mode": false
+    },
+
+    "bot_colors": {
+        "red": "#ff0000",
+        "blue": "#0012d9",
+        "purple": "#3e00b0",
+        "orange": "#d18400",
+        "green": "#02de44",
+        "pink": "#bf0fa5",
+        "black": "#080808",
+        "brown": "#0f0d0d",
+        "light_blue": "#008dd9"
+    },
+
+    "bot_stats": {
+        "guildID": "577691817278177280",
+        "memberCountID": "654865444712480778",
+        "botCountID": "654865493236252692"
+    },
+
+    "fivem_servers": {
+        "serverOne": "88.214.59.51:30120",
+        "serverTwo": "88.214.59.51:30121",
+        "fivem_message": "IP Addresses"
+    },
+
+    "ticket_system": {
+        "support_role": "653117005863321611",
+        "auto_reply": true,
+        "auto_reply_message": "Hi, \n Thanks for making a **Support Ticket**. **Support Staff** will be here shortly.",
+        "ticket_category": "655824163239493632"
+    },
+
+    "module_toggles": {
+        "ticket_system": true,
+        "fun_commands": true,
+        "mod_commands": true,
+        "util_commands": true,
+        "role_join": true,
+        "logs": true,
+        "mod_logs": true
+    },
+
+    "join_roles": {
+        "role": "638186353888067654"
+    },
+
+    "bot_status": {
+        "bot_statuss": "3",
+        "bot_game_type": "LISTENING",
+        "bot_game": " .help for Commands"
+    },
+
+    "log_channels": {
+        "general_logs_channel": "653072869760434186",
+        "kick_logs_channel": "653072869760434186",
+        "ban_logs_channel": "653072869760434186",
+        "warning_logs_channel": "653072869760434186",
+        "mute_logs_channel": "653072869760434186",
+        "command_logs_channel": "653072869760434186"
+    },
+
+    "mod_module": {
+        "mute_role": "",
+        "dm_kicked_user": true,
+        "dm_banned_user": true,
+        "dm_muted_user": true,
+        "dm_warned_user": true
+    }
+
+}
